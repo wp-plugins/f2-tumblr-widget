@@ -1,0 +1,24 @@
+// Styles to space things out sensibly
+.f2-tumblr-post {
+  margin-bottom: 10px;
+}
+
+.f2-tumblr-post h3 {
+  margin-bottom: 5px;
+}
+
+.f2-tumblr-post p {
+  margin-bottom: 5px;
+}
+
+// Styles to handle the slideshow version
+.f2-tumblr-slideshow {
+  position: relative;
+}
+
+.f2-tumblr-slideshow .f2-tumblr-post {
+  display: none;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
